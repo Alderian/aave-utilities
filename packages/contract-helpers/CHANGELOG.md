@@ -3,50 +3,45 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# 1.24.0 (2024-02-05)
+# 1.28.0 (2024-03-19)
 
 
 ### Features
 
-* abpt v2 migration ([#573](https://github.com/aave/aave-utilities/issues/573)) ([75bb4c0](https://github.com/aave/aave-utilities/commit/75bb4c038ea10b8faf42630a7fb580e7317623b8))
+* add gas limit for staking migrate ([#577](https://github.com/aave/aave-utilities/issues/577)) ([004602a](https://github.com/aave/aave-utilities/commit/004602a79642b101162de98e2b91c9cd964554fe))
 
 
 
 
 
-## 1.23.1 (2024-01-24)
-
-**Note:** Version bump only for package @aave/contract-helpers
-
-
-
-
-
-# 1.23.0 (2024-01-19)
+# 1.27.0 (2024-03-11)
 
 
 ### Features
 
-* add bnb ([#571](https://github.com/aave/aave-utilities/issues/571)) ([5b92d16](https://github.com/aave/aave-utilities/commit/5b92d16a39dfb47e0cae95fd3480863b8f9afc75))
+* testnet updates ([#576](https://github.com/aave/aave-utilities/issues/576)) ([7334f68](https://github.com/aave/aave-utilities/commit/7334f68e3702fd5d47808b1f374423c1a0d2153b))
 
 
 
 
 
-# 1.22.0 (2024-01-18)
+# 1.26.0 (2024-03-11)
 
 
 ### Features
 
-* gov v3 ([#564](https://github.com/aave/aave-utilities/issues/564)) ([335588e](https://github.com/aave/aave-utilities/commit/335588e2e04056b631a47b1ede50594baebd158e)), closes [#567](https://github.com/aave/aave-utilities/issues/567)
+* add arbitrum sepolia chainId ([#574](https://github.com/aave/aave-utilities/issues/574)) ([433974f](https://github.com/aave/aave-utilities/commit/433974fc1f0e40bdfad21fbab625280c757f1f73))
 
 
 
 
 
-## 1.21.1 (2023-11-21)
+# 1.25.0 (2024-02-22)
 
-**Note:** Version bump only for package @aave/contract-helpers
+
+### Features
+
+* sdai token wrapper ([#561](https://github.com/aave/aave-utilities/issues/561)) ([c772112](https://github.com/aave/aave-utilities/commit/c77211216fbcf86d71718c5450bc9aab5ec5a002))
 
 
 
@@ -57,16 +52,48 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# 1.21.0 (2023-10-04)
-
+# 1.24.0 (2024-02-05)
 
 ### Features
 
-* updated debt switch interface ([#559](https://github.com/aave/aave-utilities/issues/559)) ([b108c62](https://github.com/aave/aave-utilities/commit/b108c620cf0e3e446840c166b660695ebd66563b))
+- abpt v2 migration ([#573](https://github.com/aave/aave-utilities/issues/573))
+  ([75bb4c0](https://github.com/aave/aave-utilities/commit/75bb4c038ea10b8faf42630a7fb580e7317623b8))
 
+## 1.23.1 (2024-01-24)
 
+**Note:** Version bump only for package @aave/contract-helpers
 
+# 1.23.0 (2024-01-19)
 
+### Features
+
+- add bnb ([#571](https://github.com/aave/aave-utilities/issues/571))
+  ([5b92d16](https://github.com/aave/aave-utilities/commit/5b92d16a39dfb47e0cae95fd3480863b8f9afc75))
+
+# 1.22.0 (2024-01-18)
+
+### Features
+
+- gov v3 ([#564](https://github.com/aave/aave-utilities/issues/564))
+  ([335588e](https://github.com/aave/aave-utilities/commit/335588e2e04056b631a47b1ede50594baebd158e)),
+  closes [#567](https://github.com/aave/aave-utilities/issues/567)
+
+## 1.21.1 (2023-11-21)
+
+**Note:** Version bump only for package @aave/contract-helpers
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# 1.21.0 (2023-10-04)
+
+### Features
+
+- updated debt switch interface
+  ([#559](https://github.com/aave/aave-utilities/issues/559))
+  ([b108c62](https://github.com/aave/aave-utilities/commit/b108c620cf0e3e446840c166b660695ebd66563b))
 
 # 1.20.0 (2023-08-22)
 
